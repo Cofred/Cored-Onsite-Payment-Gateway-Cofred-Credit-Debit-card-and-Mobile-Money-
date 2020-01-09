@@ -9,7 +9,7 @@ You will need to set javascript parameters and load a Cofred Javascript library
 
 Load Cofred library like this in your page
 
-<script src="https://cofredpay.com/sdk/cofred.js"></script>
+<script src="https://cofredpay.com/sdk/cofredall.js"></script>
 
 https://cofredpay.com/sdk/cofredall.js is the Javascript library url.
 
