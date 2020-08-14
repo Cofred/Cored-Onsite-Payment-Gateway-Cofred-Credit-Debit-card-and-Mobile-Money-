@@ -1,4 +1,4 @@
-# Cored Onsite Payment Gateway (Cofred Credit Debit card and Mobile Money)
+# Cored Onsite Payment Gateway (Multiple Payment Option)
 With Cofred, Credit/Debit card and Mobile Money options on single page to make payment.
 
 Cofred onsite payment can be used to receive payments from Cofred, Credit/Debit Cards and Mobile Money on your website and all options will show on same time. In which user can choose whichever medium they want to make payment.
